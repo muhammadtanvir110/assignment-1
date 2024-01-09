@@ -2,7 +2,6 @@
     background-image: url('../resources/Banner\ Image.png');
     width: 1320px;
     height: 600px;
-    flex-shrink: 0;
     margin-top: 50px;
     margin-left: 140px;
     margin-right: 140px;
@@ -75,6 +74,8 @@
     padding-top: 5px;
     width: 1300px;
     background-position: center;
+    border-radius: 20px;
+    padding-bottom: 60px;
     margin: auto;
 }
 .class9{
@@ -113,6 +114,7 @@
 .class14{
     margin: auto;
     margin-top: 90px;
+    margin-bottom: 100px;
     width: 1320px;
     height: 600px;
     flex-shrink: 0;
@@ -145,7 +147,7 @@
     padding-left: 150px;
 }
 .class17{
-    position:relative; left: 900px; bottom: 290px;
+    position:relative; left: 900px; bottom: 400px;
 }
 .class18{
     text-align: center;
@@ -155,7 +157,7 @@
     width: 1320px;
     height: 616px;
     margin: auto;
-    margin-bottom: 500px;
+    margin-bottom: 380px;
 }
 .class19{
     width: 150px;
@@ -187,6 +189,57 @@
 .class22{
     padding-top: 40px;
 }
+.class23{
+    margin-left: 490px;
+    margin-top: 80px;
+}
+.class24{
+    margin-left: 180px;
+    margin-top: 130px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    line-height: 40px;
+    width: 400px;
+}
+.class25{
+    margin-left: 450px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.class26{
+    padding-left: 30px;
+    width: 80px;
+    height: 80px;
+}
+.class27{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 200px;
+}
+.class28{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 800px;
+}
+.class29{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 160px;
+    padding-top: 40px;
+    text-transform: uppercase;
+}
 input{
     width: 600px;
     height: 72px;
@@ -215,29 +268,13 @@ button{
     text-transform: capitalize;
 }
 footer{
-    /* background-color: blueviolet; */
-    margin-top: 500px;
     width: 1600px;
-    height: 609px;
+    height: 650px;
     background: #070211;
     margin: auto;
 }
 footer div{
     display: flex;
-}
-.class23{
-    margin-left: 490px;
-    margin-top: 80px;
-}
-.class24{
-    margin-left: 180px;
-    margin-top: 130px;
-    color: #FFF;
-    font-family: Inter;
-    font-size: 24px;
-    font-style: normal;
-    line-height: 40px;
-    width: 400px;
 }
 ul li{
     color: #FFF;
@@ -251,14 +288,4 @@ hr{
     width: 1320px;
     height: 1px;
     background: rgba(255, 255, 255, 0.15);
-}
-.class25{
-    margin-left: 450px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-}
-.class26{
-    padding-left: 30px;
-    width: 80px;
-    height: 80px;
 }
