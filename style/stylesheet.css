@@ -1,0 +1,219 @@
+.class1{
+    background-image: url('../resources/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    margin-top: 50px;
+    margin-left: 140px;
+    margin-right: 140px;
+    border-radius: 16px;
+    background-position: center;
+    margin: auto;
+}
+.class2{
+    text-align: center;
+}
+.class3{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    padding-top: 195px;
+    padding-bottom: 0px;
+}
+.class4{
+    width: 632px;
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    text-align: center;
+    margin-left: 350px;
+    margin-top: 0px;
+}
+.class5{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+}
+.class6{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.class7{
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 20px;
+}
+.class8{
+    background-color: papayawhip;
+    padding-left: 50px;
+    padding-top: 5px;
+    width: 1300px;
+    background-position: center;
+    margin: auto;
+}
+.class9{
+    position: relative;left: -18px;
+}
+.class10{
+    text-align: center;
+    margin-top: 100px;
+}
+.class11{
+    color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.class12{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.class13{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.class14{
+    margin: auto;
+    margin-top: 90px;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    background-image: url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+}
+.class15{
+    color: #FFF;
+    padding-top: 100px;
+    padding-left: 150px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    width: 600px;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px
+}
+.class16{
+    width: 697px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-top: 0px;
+    padding-left: 150px;
+}
+.class17{
+    position:relative; left: 900px; bottom: 290px;
+}
+.class18{
+    text-align: center;
+    border-radius: 16px;
+    background: papayawhip;
+    position:relative; top: 200px;
+    width: 1320px;
+    height: 616px;
+    margin: auto;
+}
+.class19{
+    width: 150px;
+    height: 150px;
+    padding-left: 600px;
+    padding-top: 80px;
+}
+.class20{
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    padding-bottom: 0px;
+    text-transform: capitalize;
+}
+.class21{
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    padding-left: 210px;
+    padding-top: 0px;
+}
+.class22{
+    padding-top: 40px;
+}
+input{
+    width: 600px;
+    height: 72px;
+    border: none;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+input[type="text"]::placeholder{
+    color: rgba(7, 2, 17, 0.30);
+    padding-left: 40px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: normal;
+}
+button{
+    width: 210px;
+    height: 72px;
+    border-radius: 0px 50px 50px 0px;
+    background-color: #F00;
+    border: none;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+footer{
+    background-color: blueviolet;
+    margin-top: 500px;
+}
